@@ -1,0 +1,1 @@
+//use this file for testing the user registration functionality in the client side. It will contain test cases to ensure that the user registration process works correctly and handles various scenarios such as valid input, invalid input, and edge cases and exterme testing stimulations.
