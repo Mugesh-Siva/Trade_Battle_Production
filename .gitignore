@@ -1,3 +1,4 @@
 Server/.env
 .env
 Cilent/.env
+.env.*

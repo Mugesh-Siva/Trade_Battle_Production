@@ -1,0 +1,1 @@
+//Check if the amount in user account is greater than or equal to the required amount for matchmaking. If not, return an error message indicating insufficient funds.

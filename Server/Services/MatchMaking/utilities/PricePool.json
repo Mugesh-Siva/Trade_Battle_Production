@@ -1,0 +1,4 @@
+{
+    "comment": "This file contains the price pool for matchmaking. The main MatchMake.js should parse this price pool file for prices and then use it to display to cilent side and make them click one of those avaliable price pools.",
+    "prices": [400, 1000, 5000, 10000, 20000, 50000, 100000, 200000, 500000, 1000000]
+}
